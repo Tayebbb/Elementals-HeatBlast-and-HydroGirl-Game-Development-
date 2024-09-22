@@ -22,8 +22,8 @@ To play the game, follow these steps:
    
 How to Play:
 
-1))Follow (How to play the game.pdf) in the repository for details.
-2)Enjoy the Game.
+1) Follow (How to play the game.pdf) in the repository for details.
+2) Enjoy the Game.
 
 
 FEEL FREE TO SUGGEST ANY UPGRADES OR CHANGES!

@@ -3,8 +3,11 @@ This repository contains a Game Implemented in C/C++ with OpenGL iGraphics for G
 
 Technologies Used:
 C/C++ Programming Language
+
 OpenGL Library
+
 iGraphics Engine
+
 Visual Studio Code.
 
 Game Play Demo:

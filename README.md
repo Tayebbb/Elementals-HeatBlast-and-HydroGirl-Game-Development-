@@ -5,10 +5,10 @@ This repository contains a game developed as a term project assignment for **CSE
 ---
 
 ## 📚 Technologies Used
-- **Programming Language:** C/C++
-- **Graphics Library:** OpenGL
-- **Graphics Engine:** iGraphics
-- **IDE:** Visual Studio Code
+- **Programming Language:** `C/C++`
+- **Graphics Library:** `OpenGL`
+- **Graphics Engine:** `iGraphics`
+- **IDE:** `Visual Studio Code`
 
 ---
 

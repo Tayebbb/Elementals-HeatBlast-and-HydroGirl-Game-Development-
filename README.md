@@ -10,10 +10,10 @@ iGraphics Engine
 
 Visual Studio Code.
 
-#Game Play Demo:
+##Game Play Demo:
 https://youtu.be/LLOw3zkk4Tw
 
-#Installation:
+##Installation:
 To play the game, follow these steps:
 
 1) Download vs13 onto your setup.
